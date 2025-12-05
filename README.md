@@ -1,5 +1,3 @@
-# scientific-partnership-framework
-AI-partnership 
 # 🤝 AI-Human Scientific Partnership Framework
 
 **Accelerate scientific discovery through AI-human collaboration**
